@@ -1,4 +1,4 @@
-Opa, me Marcos Moura, sou estudante de Análise e Desenvolvimento de Sistemas!
+Olá, me chamo Marcos Moura, e sou estudante de Análise e Desenvolvimento de Sistemas!
 
 <img align="center" alt="Marcos-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
 
